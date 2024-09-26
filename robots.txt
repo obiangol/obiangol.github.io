@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://obiangol.github.io/sitemap.obiangol.gz
+Sitemap: https://obiangol.github.io/app/sitemap.obiangol.gz
+Sitemap: https://obiangol.github.io/assets/sitemap.obiangol.gz
+Sitemap: https://obiangol.github.io/css/sitemap.obiangol.gz
+Sitemap: https://obiangol.github.io/data/sitemap.obiangol.gz
+Sitemap: https://obiangol.github.io/includes/sitemap.obiangol.gz
+Sitemap: https://obiangol.github.io/item/sitemap.obiangol.gz
+Sitemap: https://obiangol.github.io/src/sitemap.obiangol.gz
